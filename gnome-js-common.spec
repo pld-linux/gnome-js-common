@@ -9,7 +9,7 @@ Source0:	http://ftp.gnome.org/pub/GNOME/sources/gnome-js-common/0.1/%{name}-%{ve
 # Source0-md5:	a4147d24622ab0f1d01e9921a3bf501b
 BuildRequires:	autoconf >= 2.50
 BuildRequires:	automake
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	intltool >= 0.35.0
 BuildRequires:	libtool
 BuildRequires:	pkgconfig
