@@ -2,7 +2,7 @@ Summary:	Common modules for GNOME JavaScript bindings
 Summary(pl.UTF-8):	Wspólne moduły dla wiązań JavaScriptu do GNOME
 Name:		gnome-js-common
 Version:	0.1.2
-Release:	2
+Release:	3
 License:	GPL v3
 Group:		Libraries
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/gnome-js-common/0.1/%{name}-%{version}.tar.bz2
