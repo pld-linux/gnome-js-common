@@ -5,7 +5,7 @@ Version:	0.1.2
 Release:	3
 License:	GPL v3
 Group:		Libraries
-Source0:	http://ftp.gnome.org/pub/GNOME/sources/gnome-js-common/0.1/%{name}-%{version}.tar.bz2
+Source0:	https://download.gnome.org/sources/gnome-js-common/0.1/%{name}-%{version}.tar.bz2
 # Source0-md5:	a4147d24622ab0f1d01e9921a3bf501b
 BuildRequires:	autoconf >= 2.50
 BuildRequires:	automake
